@@ -1464,3 +1464,54 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.12.05-18.54.09:620][278]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.05-18.54.09:620][278]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.05-18.54.09:620][278]AssetCheck: /Game/Assets/Character/BP_Rocket Validating asset
+[2025.12.05-18.58.52:162][729]LogSlate: External Image Picker: DecompressImage failed
+[2025.12.05-18.58.56:573][239]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2133.043701
+[2025.12.05-18.58.56:674][251]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.05-18.58.56:675][252]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2133.135498, Update Interval: 331.198456
+[2025.12.05-19.00.28:152][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2025.12.05-19.00.29:488][272]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-19.00.29:545][272]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Character/BP_Rocket] ([2] browsable assets)...
+[2025.12.05-19.00.29:545][272]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/BP_Rocket]
+[2025.12.05-19.00.29:556][272]LogSavePackage: Moving output files for package: /Game/Assets/Character/BP_Rocket
+[2025.12.05-19.00.29:556][272]LogSavePackage: Moving '../../../../../../Users/scott/Desktop/GameDevProjects/little-rocket-flight/LittleRocketFlight/Saved/BP_Rocket2E7F8885461B37B5778E7CBF10D49A38.tmp' to '../../../../../../Users/scott/Desktop/GameDevProjects/little-rocket-flight/LittleRocketFlight/Content/Assets/Character/BP_Rocket.uasset'
+[2025.12.05-19.00.29:564][272]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.232 ms (total: 474.601 ms)
+[2025.12.05-19.00.29:614][272]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-19.00.29:614][272]LogContentValidation: Enabled validators:
+[2025.12.05-19.00.29:614][272]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-19.00.29:614][272]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-19.00.29:614][272]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-19.00.29:614][272]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-19.00.29:614][272]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-19.00.29:614][272]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-19.00.29:615][272]AssetCheck: /Game/Assets/Character/BP_Rocket Validating asset
+[2025.12.05-19.02.23:802][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.12.05-19.02.24:627][870]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-19.02.24:679][870]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Character/BP_Rocket] ([2] browsable assets)...
+[2025.12.05-19.02.24:679][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/BP_Rocket]
+[2025.12.05-19.02.24:692][870]LogSavePackage: Moving output files for package: /Game/Assets/Character/BP_Rocket
+[2025.12.05-19.02.24:693][870]LogSavePackage: Moving '../../../../../../Users/scott/Desktop/GameDevProjects/little-rocket-flight/LittleRocketFlight/Saved/BP_Rocket187ADD5B4B7E1BCD5E7B9AA9A4EE176F.tmp' to '../../../../../../Users/scott/Desktop/GameDevProjects/little-rocket-flight/LittleRocketFlight/Content/Assets/Character/BP_Rocket.uasset'
+[2025.12.05-19.02.24:700][870]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.103 ms (total: 547.704 ms)
+[2025.12.05-19.02.24:747][870]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-19.02.24:747][870]LogContentValidation: Enabled validators:
+[2025.12.05-19.02.24:747][870]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-19.02.24:747][870]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-19.02.24:747][870]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-19.02.24:747][870]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-19.02.24:747][870]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-19.02.24:747][870]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-19.02.24:747][870]AssetCheck: /Game/Assets/Character/BP_Rocket Validating asset
+[2025.12.05-19.03.05:031][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-19.03.05:083][518]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Character/BP_Rocket] ([2] browsable assets)...
+[2025.12.05-19.03.05:083][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/BP_Rocket]
+[2025.12.05-19.03.05:098][518]LogSavePackage: Moving output files for package: /Game/Assets/Character/BP_Rocket
+[2025.12.05-19.03.05:099][518]LogSavePackage: Moving '../../../../../../Users/scott/Desktop/GameDevProjects/little-rocket-flight/LittleRocketFlight/Saved/BP_RocketED0317A7439BE48E07507CACABC89AA2.tmp' to '../../../../../../Users/scott/Desktop/GameDevProjects/little-rocket-flight/LittleRocketFlight/Content/Assets/Character/BP_Rocket.uasset'
+[2025.12.05-19.03.05:105][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.667 ms (total: 621.371 ms)
+[2025.12.05-19.03.05:151][518]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-19.03.05:151][518]LogContentValidation: Enabled validators:
+[2025.12.05-19.03.05:151][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-19.03.05:151][518]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-19.03.05:151][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-19.03.05:151][518]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-19.03.05:151][518]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-19.03.05:151][518]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-19.03.05:151][518]AssetCheck: /Game/Assets/Character/BP_Rocket Validating asset
