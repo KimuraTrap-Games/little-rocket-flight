@@ -2404,3 +2404,137 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2025.12.05-19.55.08:423][689]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.05-19.55.08:423][689]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.05-19.55.08:423][689]AssetCheck: /Game/Assets/Character/BP_Rocket Validating asset
+[2025.12.05-19.56.06:974][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.12.05-19.56.07:547][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-19.56.07:604][836]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Character/BP_Rocket] ([2] browsable assets)...
+[2025.12.05-19.56.07:657][836]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Character/BP_Rocket.BP_Rocket]
+[2025.12.05-19.56.07:657][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/BP_Rocket]
+[2025.12.05-19.56.07:672][836]LogSavePackage: Moving output files for package: /Game/Assets/Character/BP_Rocket
+[2025.12.05-19.56.07:672][836]LogSavePackage: Moving '../../../../../../Users/scott/Desktop/GameDevProjects/little-rocket-flight/LittleRocketFlight/Saved/BP_Rocket9296344748EEE7E4CA6F30BB27F8C9E2.tmp' to '../../../../../../Users/scott/Desktop/GameDevProjects/little-rocket-flight/LittleRocketFlight/Content/Assets/Character/BP_Rocket.uasset'
+[2025.12.05-19.56.07:680][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 132.380 ms (total: 1.94 sec)
+[2025.12.05-19.56.07:722][836]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-19.56.07:722][836]LogContentValidation: Enabled validators:
+[2025.12.05-19.56.07:722][836]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-19.56.07:722][836]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-19.56.07:722][836]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-19.56.07:722][836]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-19.56.07:722][836]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-19.56.07:722][836]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-19.56.07:722][836]AssetCheck: /Game/Assets/Character/BP_Rocket Validating asset
+[2025.12.05-19.58.50:878][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.12.05-19.58.50:882][430]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DevMap' took 0.025
+[2025.12.05-19.58.50:883][430]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Character/BP_Rocket] ([2] browsable assets)...
+[2025.12.05-19.58.50:936][430]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Character/BP_Rocket.BP_Rocket]
+[2025.12.05-19.58.50:936][430]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/BP_Rocket]
+[2025.12.05-19.58.50:950][430]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Assets/Character/BP_Rocket_Auto2
+[2025.12.05-19.58.50:950][430]LogSavePackage: Moving '../../../../../../Users/scott/Desktop/GameDevProjects/little-rocket-flight/LittleRocketFlight/Saved/BP_Rocket_Auto21670CD684C45074FDF8380BDB06DD132.tmp' to '../../../../../../Users/scott/Desktop/GameDevProjects/little-rocket-flight/LittleRocketFlight/Saved/Autosaves/Game/Assets/Character/BP_Rocket_Auto2.uasset'
+[2025.12.05-19.58.50:951][430]LogFileHelpers: Auto-saving content packages took 0.069
+[2025.12.05-20.00.26:959][319]LogEditorTransaction: Undo Promote To Variable
+[2025.12.05-20.00.39:867][788]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5836.365234
+[2025.12.05-20.00.39:984][802]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.05-20.00.39:984][803]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5836.473633, Update Interval: 324.306152
+[2025.12.05-20.01.13:823][439]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.12.05-20.01.14:924][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-20.01.14:975][553]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Character/BP_Rocket] ([2] browsable assets)...
+[2025.12.05-20.01.15:026][553]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Character/BP_Rocket.BP_Rocket]
+[2025.12.05-20.01.15:026][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/BP_Rocket]
+[2025.12.05-20.01.15:041][553]LogSavePackage: Moving output files for package: /Game/Assets/Character/BP_Rocket
+[2025.12.05-20.01.15:042][553]LogSavePackage: Moving '../../../../../../Users/scott/Desktop/GameDevProjects/little-rocket-flight/LittleRocketFlight/Saved/BP_Rocket7DB9A1B44BE7952740E4F98B1341759C.tmp' to '../../../../../../Users/scott/Desktop/GameDevProjects/little-rocket-flight/LittleRocketFlight/Content/Assets/Character/BP_Rocket.uasset'
+[2025.12.05-20.01.15:049][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 125.081 ms (total: 2.06 sec)
+[2025.12.05-20.01.15:109][553]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-20.01.15:109][553]LogContentValidation: Enabled validators:
+[2025.12.05-20.01.15:109][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-20.01.15:109][553]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-20.01.15:109][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-20.01.15:109][553]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-20.01.15:109][553]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-20.01.15:109][553]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-20.01.15:109][553]AssetCheck: /Game/Assets/Character/BP_Rocket Validating asset
+[2025.12.05-20.01.18:933][998]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.12.05-20.01.18:941][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.12.05-20.01.18:941][998]LogPlayLevel: Display: Creating online subsystem for client :Context_12
+[2025.12.05-20.01.18:944][998]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.12.05-20.01.18:957][999]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap
+[2025.12.05-20.01.18:959][999]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001613s)
+[2025.12.05-20.01.18:959][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap.DevMap to /Game/Maps/UEDPIE_0_DevMap.DevMap (0.001651s)
+[2025.12.05-20.01.18:979][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.12.05-20.01.18:985][999]LogChaosDD: Creating Chaos Debug Draw Scene for world DevMap
+[2025.12.05-20.01.18:986][999]LogPlayLevel: PIE: World Init took: (0.001438s)
+[2025.12.05-20.01.18:987][999]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.12.05-20.01.18:987][999]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.12.05-20.01.18:987][999]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.12.05-20.01.18:987][999]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.12.05-20.01.18:987][999]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.12.05-20.01.18:987][999]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.12.05-20.01.18:987][999]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.12.05-20.01.18:987][999]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.12.05-20.01.18:987][999]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.12.05-20.01.18:987][999]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.12.05-20.01.18:987][999]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.12.05-20.01.18:987][999]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.12.05-20.01.18:989][999]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.12.05-20.01.19:006][999]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- SOMIC STINCOO GS401 WIRELESS)
+[2025.12.05-20.01.19:006][999]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.12.05-20.01.19:006][999]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.12.05-20.01.19:006][999]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.12.05-20.01.19:007][999]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.12.05-20.01.19:007][999]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.12.05-20.01.19:009][999]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.12.05-20.01.19:009][999]LogInit: FAudioDevice initialized with ID 9.
+[2025.12.05-20.01.19:009][999]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.12.05-20.01.19:009][999]LogAudio: Display: Audio Device (ID: 9) registered with world 'DevMap'.
+[2025.12.05-20.01.19:009][999]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.12.05-20.01.19:012][999]LogLoad: Game class is 'GameModeBase'
+[2025.12.05-20.01.19:013][999]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap.DevMap up for play (max tick rate 0) at 2025.12.05-14.01.19
+[2025.12.05-20.01.19:013][999]LogWorld: Bringing up level for play took: 0.000562
+[2025.12.05-20.01.19:014][999]PIE: Server logged in
+[2025.12.05-20.01.19:015][999]PIE: Play in editor total start time 0.076 seconds.
+[2025.12.05-20.01.19:071][  0]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.12.05-20.01.21:100][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.05-20.01.21:100][230]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DevMap
+[2025.12.05-20.01.21:100][230]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2025.12.05-20.01.21:100][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.05-20.01.21:105][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.12.05-20.01.21:110][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.05-20.01.21:129][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.12.05-20.01.21:129][230]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.12.05-20.01.21:129][230]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2025.12.05-20.01.21:131][230]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2025.12.05-20.01.21:136][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.12.05-20.01.21:172][231]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.12.05-20.02.02:291][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.12.05-20.02.02:709][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-20.02.02:758][ 55]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Character/BP_Rocket] ([2] browsable assets)...
+[2025.12.05-20.02.02:810][ 55]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Character/BP_Rocket.BP_Rocket]
+[2025.12.05-20.02.02:810][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/BP_Rocket]
+[2025.12.05-20.02.02:825][ 55]LogSavePackage: Moving output files for package: /Game/Assets/Character/BP_Rocket
+[2025.12.05-20.02.02:825][ 55]LogSavePackage: Moving '../../../../../../Users/scott/Desktop/GameDevProjects/little-rocket-flight/LittleRocketFlight/Saved/BP_Rocket51012BC64F8FB78EEB682F8701090EB4.tmp' to '../../../../../../Users/scott/Desktop/GameDevProjects/little-rocket-flight/LittleRocketFlight/Content/Assets/Character/BP_Rocket.uasset'
+[2025.12.05-20.02.02:833][ 55]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.896 ms (total: 2.18 sec)
+[2025.12.05-20.02.02:893][ 55]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-20.02.02:893][ 55]LogContentValidation: Enabled validators:
+[2025.12.05-20.02.02:893][ 55]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-20.02.02:893][ 55]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-20.02.02:893][ 55]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-20.02.02:893][ 55]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-20.02.02:893][ 55]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-20.02.02:893][ 55]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-20.02.02:893][ 55]AssetCheck: /Game/Assets/Character/BP_Rocket Validating asset
+[2025.12.05-20.04.02:913][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.12.05-20.04.03:603][913]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.05-20.04.03:632][913]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Assets/Character/BP_Rocket] ([2] browsable assets)...
+[2025.12.05-20.04.03:685][913]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Character/BP_Rocket.BP_Rocket]
+[2025.12.05-20.04.03:685][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Character/BP_Rocket]
+[2025.12.05-20.04.03:700][913]LogSavePackage: Moving output files for package: /Game/Assets/Character/BP_Rocket
+[2025.12.05-20.04.03:701][913]LogSavePackage: Moving '../../../../../../Users/scott/Desktop/GameDevProjects/little-rocket-flight/LittleRocketFlight/Saved/BP_Rocket7E505AD04AD5A42FA14D2DBA13B8CF91.tmp' to '../../../../../../Users/scott/Desktop/GameDevProjects/little-rocket-flight/LittleRocketFlight/Content/Assets/Character/BP_Rocket.uasset'
+[2025.12.05-20.04.03:708][913]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.614 ms (total: 2.29 sec)
+[2025.12.05-20.04.03:784][913]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.05-20.04.03:784][913]LogContentValidation: Enabled validators:
+[2025.12.05-20.04.03:784][913]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.05-20.04.03:784][913]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.05-20.04.03:784][913]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.05-20.04.03:784][913]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.05-20.04.03:784][913]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.05-20.04.03:784][913]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.05-20.04.03:784][913]AssetCheck: /Game/Assets/Character/BP_Rocket Validating asset
