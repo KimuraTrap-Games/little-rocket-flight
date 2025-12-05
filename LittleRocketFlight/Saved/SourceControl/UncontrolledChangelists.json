@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/scott/Desktop/GameDevProjects/little-rocket-flight/LittleRocketFlight/Content/DevMap.umap",
-				"C:/Users/scott/Desktop/GameDevProjects/little-rocket-flight/LittleRocketFlight/Content/Maps/DevMap.umap"
+				"C:/Users/scott/Desktop/GameDevProjects/little-rocket-flight/LittleRocketFlight/Content/Maps/DevMap.umap",
+				"C:/Users/scott/Desktop/GameDevProjects/little-rocket-flight/LittleRocketFlight/Content/Assets/Character/BP_Rocket.uasset"
 			]
 		}
 	]
